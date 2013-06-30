@@ -87,28 +87,5 @@ for child in postsLinkContainer.findChildren():
                 else:
                     WriteToFile(currentFile, info)
 
-                # Check for changed posts.
-                '''currentFile.write("----------------------------------------------------------------------------------------------------------------------\n")
-
-                info = info.find('a')
-                link = info['href']
-                title = info.get_text().encode('utf-8')
-
-                currentFile.write("Link: " + str(link.encode('utf-8')) + "\n\n")
-                currentFile.write("Title: " + str(title.encode('utf-8')) + "\n")
-                currentFile.write("Date Posted: " + str(currentDate.encode('utf-8')) + "\n")
-
-                postPage = urllib2.urlopen(link).read()
-
-                postSoup = BeautifulSoup(postPage)
-
-                postContent = postSoup.find("div", class_="post-body entry-content")
-
-                # Regex to remove the remaining HTML comments and posted by after removeing all HTML tags and leading newlines.
-                removedHTML = re.sub('[\s\S]*?\/\/-->', '', postContent.get_text()).lstrip()
-                removedHTML = re.sub('Published[\s\S]*?\)', '', removedHTML)                
-
-                currentFile.write("Content: \n\t" + removedHTML.strip().encode('utf-8') + "\n")'''
-
 yesterdayFile.close()
 currentFile.close()
