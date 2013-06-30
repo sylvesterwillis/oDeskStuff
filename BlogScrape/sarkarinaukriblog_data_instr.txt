@@ -1,0 +1,33 @@
+***********************************************************
+Insrtuctions: Save file in today's date and site name eg: 30june13_sarkarinaukriblog.txt
+		Download latest 15 post/articles date into this file.
+		Foramttting should proper and human readable.
+		Use *BeautifulSoup* module only for scrapping the data, unless there is some hardbound requirement.
+		Proper comments should be available wherever required.
+		Script should run as 'python sarkarinaukriblog-data.py' and save content to current directory's above metioned file name.
+***********************************************************
+----------------------------------------------------------------------------------------------------------------------
+Link: http://www.sarkarinaukriblog.com/2013/06/kashi-gomti-gramin-bank-jobs-july-2014.html
+
+Title: Kashi Gomti Samyukt Gramin (KGSG) Bank
+Date Posted: 26 June 2013
+Content:
+	Online applications are invited from Indian citizens for the recruitment of Officer Scale-III, Officer Scale -II, Office Scale-I for 		those candidates who have appeared in CWE for RRBs in conducted by IBPS in September 2012 and have valid score card :
+	Officer Scale-III : 04 posts
+	Officer Scale-II (General Banking Officer) :13 posts
+	Officer Scale-II (Chartered Accountants) : 01 post
+	Officer Scale-II (Treasury Manager) : 01 post
+	Officer Scale-I : 231 posts (UR-114, OBC-61, SC-34, ST-22) (PWD-7, Ex.SM-32)
+	Office Assistant (Multipurpose) : 242 posts&nbsp; (UR-124, OBC-65, SC-51, ST-2) (PWD-7, Ex.SM-34)
+	How to Apply : Apply Online only at Kashi Gomti Samyukt Gramin Bank website from 04/07/2013 to 24/07/2013
+	Please visit http://kgsgbank.co.in/webpages.php?tag=Recruitment for all the details and online application format alongwith challan 		forms.
+
+----------------------------------------------------------------------------------------------------------------------
+Link: 2nd article's link/url address
+
+Title: 2nd article's title
+Date Posted: 2nd article's date
+Content:
+	2nd article's content like above
+
+and so on.............

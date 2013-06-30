@@ -1,0 +1,38 @@
+***********************************************************
+Insrtuctions: Save file in today's date and site name eg: 30june13_sarkari-naukri.txt
+		Download latest 15 post/articles date into this file.
+		Foramttting should proper and human readable.
+		Use *BeautifulSoup* module only for scrapping the data, unless there is some hardbound requirement.
+		Proper comments should be available wherever required.
+		Script should run as 'python sarkari-naukri-data.py' and save content to current directory's above metioned file name.
+***********************************************************
+----------------------------------------------------------------------------------------------------------------------
+Link: http://www.sarkari-naukri.in/jobs-by-state/jobs-in-punjab/office-assistant-in-ciphet.html
+
+Title: Govt. Jobs For Assistant In CIPHET – July 2013
+Date Posted: JUNE 29, 2013
+Content:
+	Office Assistant
+	Central Institute of Post Harvest Engineering & Technology
+	Address: Central Institute of Post Harvest Engineering & Technology, PAU Campus
+	Postal Code: 141004
+	City Ludhiana
+	State Punjab
+	Pay Scale: Rs. 10,000/- per month
+	Educational Requirements: Graduate from a recognized university with 60% marks or equivalent with knowledge of computer software
+	Experience Requirements: One year experience in office management.
+	Details will be available at: http://www.ciphet.in/upload/file/Job/BPD%20advertisment.pdf
+	How To Apply: Interested candidates can submit their biodata by 20/07/2013 and should bring the following documents with them at the 			time of Interview :
+		1. Duly filled application form in the given proforma. While mentioning position applied for, please give order preference / 			priority for Business Manager/Research Associate/Senior Research Fellow positions from the serial no. given in this 			advertisement.
+		2. Original certificates of all the essential and desirable qualifications and experience for verification & one set of 		self-attested copies for submission at the time of interview. Candidate will not be permitted to appear in the interview 			without original certificate of educational qualification, evidence of Date of Birth, experience certificate, other claimed 			achievements such as relevant publications, awards etc are essential to produce in original.
+	Date of Interview: 22/07/2013
+	Age Limit: 35 yrs. for Men, 40 yrs. for Women
+-----------------------------------------------------------------------------------------------------------------------
+Link: 2nd article's link/url address
+
+Title: 2nd article's title
+Date Posted: 2nd article's date
+Content:
+	2nd article's content like above
+
+and so on.............
